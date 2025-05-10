@@ -1,1 +1,36 @@
 .vercel
+
+# Sistema operacional
+.DS_Store           # macOS
+Thumbs.db           # Windows
+desktop.ini         # Windows
+
+# Node (caso use futuramente)
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Live Server cache
+*.local
+*.tmp
+*.swp
+
+# Arquivos temporários e backups
+*.bak
+*.tmp
+*~
+
+# Cache do navegador
+.cache/
+
+# Output de compiladores (caso adicione no futuro)
+dist/
+build/

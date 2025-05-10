@@ -4,6 +4,13 @@ Este é um jogo simples e interativo criado com HTML, CSS e JavaScript, onde o o
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status do projeto](https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge)
+![Licença](https://img.shields.io/badge/licença-MIT-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/versão-1.0.0-blue?style=for-the-badge)
+![Plataforma](https://img.shields.io/badge/plataforma-Web-lightgrey?style=for-the-badge)
+![Responsivo](https://img.shields.io/badge/responsivo-sim-success?style=for-the-badge)
+![Último commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repo?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/seu-usuario/seu-repo?style=for-the-badge)
 
 
 ## 📸 Preview
